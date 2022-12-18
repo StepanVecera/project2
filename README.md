@@ -51,7 +51,7 @@ Part of this readme was taken from [previos project](https://github.com/StepanVe
 
 ## Video
 
-Insert a link to a short video with your practical implementation example (1-3 minutes, e.g. on YouTube).
+https://youtu.be/sD7s3yCammY
 
 ## References
 1. [Arduino pinout](https://docs.arduino.cc/static/6ec5e4c2a6c0e9e46389d4f6dc924073/2f891/Pinout-UNOrev3_latest.png)
