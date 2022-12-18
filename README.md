@@ -28,6 +28,11 @@ Figure below shows how duty cycle coresponds to position of servo.
 
 ![arduino pwm](https://user-images.githubusercontent.com/99388270/208290677-11a39c81-5e7f-44db-b1ef-3ce06e0724c8.png)
 
+Figure below shows wirering of our project.
+
+![project2 schema](https://user-images.githubusercontent.com/99388270/208300571-05e2b2ab-930d-46a2-b837-ed821195ad10.jpg)
+
+
 **joystick**
 
 Joystick is an input device. It consists of two potentiometers and a push button. The potentiometers indicate in whitch direction is the joystick being pushed. this device has five pins. three of whitch are inputs to Arduino, while the remaining two supply voltage (5 V) and ground. The graphic below shows the X and Y directions and also gives an indication of how the outputs will respond when the joystick is pushed in various directions. In our project, we use only X axis to control position of servo.
