@@ -7,8 +7,7 @@ hlava ŠIMONA BUCHTY a  ŠTĚPÁNA VEČEŘI
 ŠIMON BUCHTA MAESTRO ZAPOJENÍ
 */
 /*Defines ------------------------------------------------------------*/
-#define EDT PB4
-#define ECLK PB5
+
 /* Includes ----------------------------------------------------------*/
 #include <avr/io.h>         // AVR device-specific IO definitions
 #include <avr/interrupt.h>  // Interrupts standard C library for AVR-GCC
