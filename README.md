@@ -41,6 +41,15 @@ Joystick is an input device. It consists of two potentiometers and a push button
 
 ## Software description
 
+**FLOWCHARTS:**
+
+**Timer1_ovf_vect**
+![DE2-PROJEKT 2 TIMER1](https://user-images.githubusercontent.com/99410540/208731839-5f05e4d6-39d0-4a8c-a182-f27629beb2ed.png)
+
+**ADC_vect**
+![DE2-PROJEKT2 ADC](https://user-images.githubusercontent.com/99410540/208731870-d911b12d-7058-4bc0-8466-c71b6a3ef081.png)
+
+
 **timer.h**
 
 This library is used in our project to set prescalers for clock signal and to enable interrupt caused by ovrflowing of timer.
